@@ -1,8 +1,4 @@
 tasks:
-  Playwright-setup:
-    command:
-      - rfbrowser
-      - init
   Default:
     command:
       - python
